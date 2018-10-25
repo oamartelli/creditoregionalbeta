@@ -10304,7 +10304,7 @@ body {
 .cid-r6FQSgwR0X {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-r6FQSgwR0X .mbr-section-subtitle {
   color: #767676;
@@ -10344,7 +10344,7 @@ body {
   border-top: 1px solid #ffffff;
 }
 .cid-r6FQSgwR0X table.table {
-  background: #efefef;
+  background: #cccccc;
 }
 .cid-r6FQSgwR0X .dataTables_filter {
   text-align: right;
@@ -10386,12 +10386,12 @@ body {
 .cid-r6FQShs9Rh {
   padding-top: 15px;
   padding-bottom: 75px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-r6FQShMBRP {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-r6FQShMBRP .nav-tabs {
   -webkit-justify-content: center;
@@ -10402,11 +10402,11 @@ body {
 }
 .cid-r6FQShMBRP .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #465052;
+  color: #c1c1c1;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
-  border: 1px solid #465052;
+  border: 1px solid #c1c1c1;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: all .5s;
@@ -10431,53 +10431,12 @@ body {
   text-align: center;
 }
 .cid-r6FQShMBRP P {
-  color: #465052;
-}
-.cid-r6LesVZeHF {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  position: relative;
-  background-color: #ffffff;
-}
-.cid-r6LesVZeHF p {
-  color: #767676;
-}
-.cid-r6LesVZeHF .card {
-  border-radius: 0px;
-  margin-bottom: -1px;
-}
-.cid-r6LesVZeHF .card .card-header {
-  border-radius: 0px;
-  border: 0px;
-  padding: 0;
-}
-.cid-r6LesVZeHF .card .card-header a.panel-title {
-  margin-bottom: 0;
-  margin-top: -1px;
-  font-weight: 500;
-  font-style: normal;
-  display: block;
-  text-decoration: none !important;
-  line-height: normal;
-}
-.cid-r6LesVZeHF .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-r6LesVZeHF .card .card-header a.panel-title h4 {
-  border: 1px solid #dfdfdf;
-  padding: 1.3rem 2rem;
-  margin-bottom: 0;
-}
-.cid-r6LesVZeHF .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
-}
-.cid-r6LesVZeHF H4 {
-  color: #eb1f2e;
+  color: #3e4451;
 }
 .cid-r6FQSimufw {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f9f9f9;
+  background-color: #efefef;
 }
 .cid-r6FQSimufw .mbr-text,
 .cid-r6FQSimufw blockquote {
